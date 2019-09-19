@@ -1,0 +1,13 @@
+﻿  FileStream.cpp
+F:\Tools\WechatDatDecode\FileStream.cpp(236,12): warning C4244:  “初始化”: 从“__int64”转换到“long”，可能丢失数据
+F:\Tools\WechatDatDecode\FileStream.cpp(239,12): warning C4018:  “>”: 有符号/无符号不匹配
+F:\Tools\WechatDatDecode\FileStream.cpp(253,38): warning C4244:  “参数”: 从“__int64”转换到“unsigned long”，可能丢失数据
+F:\Tools\WechatDatDecode\FileStream.cpp(256,12): warning C4018:  “>=”: 有符号/无符号不匹配
+F:\Tools\WechatDatDecode\FileStream.cpp(342,26): warning C4018:  “>=”: 有符号/无符号不匹配
+F:\Tools\WechatDatDecode\FileStream.cpp(497,37): warning C4244:  “参数”: 从“__int64”转换到“unsigned long”，可能丢失数据
+F:\Tools\WechatDatDecode\FileStream.cpp(578,38): warning C4018:  “>=”: 有符号/无符号不匹配
+F:\Tools\WechatDatDecode\FileStream.cpp(578,54): warning C4018:  “>=”: 有符号/无符号不匹配
+  WechatDatDecode.cpp
+  正在生成代码...
+F:\Tools\WechatDatDecode\FileStream.cpp(699,40): warning C4018:  “>”: 有符号/无符号不匹配
+  WechatDatDecode.vcxproj -> F:\Tools\WechatDatDecode\x64\Debug\WechatDatDecode.exe
